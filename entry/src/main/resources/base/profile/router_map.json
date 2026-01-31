@@ -1,0 +1,18 @@
+{
+  "routerMap": [
+    {
+      "name": "BoardingPassPage",
+      "pageSourceFile": "src/main/ets/pages/BoardingPass.ets",
+      "buildFunction": "BoardingPassPageBuilder"
+    },
+    {
+      "name": "FlightStatus",
+      "pageSourceFile": "src/main/ets/pages/FlightStatus.ets",
+      "buildFunction": "FlightStatusPageBuilder"
+    },    {
+      "name": "FlightDetail",
+      "pageSourceFile": "src/main/ets/pages/FlightDetail.ets",
+      "buildFunction": "FlightDetailPageBuilder"
+    }
+  ]
+}

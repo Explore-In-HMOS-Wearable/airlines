@@ -1,0 +1,26 @@
+{
+  "string": [
+    {"name": "module_desc", "value": "module description"},
+    { "name": "EntryAbility_desc","value": "description"},
+    { "name": "EntryAbility_label", "value": "label"},
+    { "name": "app_name", "value": "Airline" },
+    { "name": "flights_and_boarding", "value": "Flights & Boarding Pass" },
+    { "name": "flight_status", "value": "Flight Status" },
+    { "name": "boarding_pass", "value": "Boarding Pass" },
+    { "name": "no_flights_found", "value": "No flights found" },
+    { "name": "sync_trips", "value": "Open mobile app to sync your trips" },
+    { "name": "flight_not_found", "value": "Flight not found" },
+    { "name": "no_boarding_pass", "value": "No Boarding Pass" },
+    { "name": "check_in_required", "value": "Please complete check-in on mobile app" },
+    { "name": "view_boarding_pass", "value": "View Boarding Pass" },
+    { "name": "gate", "value": "Gate" },
+    { "name": "flight", "value": "Flight" },
+    { "name": "boarding", "value": "Boarding" },
+    { "name": "seat", "value": "Seat" },
+    { "name": "passenger", "value": "Passenger" },
+    { "name": "down", "value": "➤" },
+    { "name": "index_subtitle", "value": "Next Flight" },
+    { "name": "index_title", "value": "My Trips" },
+    { "name": "index_button", "value": "View All" }
+  ]
+}
